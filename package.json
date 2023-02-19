@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com/home",
+  "homepage": "https://JerryLi620.github.io/my-website",
   "version": "2.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -32,8 +32,8 @@
     "custom-deploy": "node pages.js"
   },
   "engines": {
-    "npm": "^8.11.0",
-    "node": "^16.16.0"
+    "npm": "^9.3.1",
+    "node": "^18.14.0"
   },
   "eslintConfig": {
     "extends": [
