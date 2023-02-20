@@ -1,28 +1,18 @@
 {
   "files": {
     "main.css": "/my-website/static/css/main.778eeed7.css",
-    "main.js": "/my-website/static/js/main.770e12ea.js",
+    "main.js": "/my-website/static/js/main.999ca4fe.js",
     "static/js/787.4b24f717.chunk.js": "/my-website/static/js/787.4b24f717.chunk.js",
-    "static/media/tensorflow.svg": "/my-website/static/media/tensorflow.4b4e98c6d8083398ea790c1c71dab4ab.svg",
     "static/media/mingyangli.jpg": "/my-website/static/media/mingyangli.3f054e935d2ad045e809.jpg",
-    "static/media/linux.svg": "/my-website/static/media/linux.0cb7bf4e5cb9ed5e2333d50935fad3d4.svg",
     "static/media/alpha.png": "/my-website/static/media/alpha.842780bb7f3f614e52f6.png",
     "static/media/tecoford.png": "/my-website/static/media/tecoford.2df2c24e2c8d6a0ac5b9.png",
-    "static/media/python.svg": "/my-website/static/media/python.af7fb8bab2f10b12cb04731a32fe6015.svg",
-    "static/media/react.svg": "/my-website/static/media/react.7c8375868df8c536ab4f2d4078519904.svg",
-    "static/media/jupyter.svg": "/my-website/static/media/jupyter.a30a052e52442056febf9c1307c62807.svg",
-    "static/media/java.svg": "/my-website/static/media/java.fa3aaa0d9601f02765fd0f91adf5f205.svg",
-    "static/media/git.svg": "/my-website/static/media/git.ab7548110aa10ed62b9ffbbd525e1644.svg",
-    "static/media/csharp.svg": "/my-website/static/media/csharp.04d9d2bb18b9781567f7340691dcc686.svg",
     "index.html": "/my-website/index.html",
-    "static/media/r.svg": "/my-website/static/media/r.3168bdba8704eb06bdd10d95d1af6436.svg",
-    "static/media/unity.svg": "/my-website/static/media/unity.fe4a9b2be3dc578f2b917a06de9a40dd.svg",
     "main.778eeed7.css.map": "/my-website/static/css/main.778eeed7.css.map",
-    "main.770e12ea.js.map": "/my-website/static/js/main.770e12ea.js.map",
+    "main.999ca4fe.js.map": "/my-website/static/js/main.999ca4fe.js.map",
     "787.4b24f717.chunk.js.map": "/my-website/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.770e12ea.js"
+    "static/js/main.999ca4fe.js"
   ]
 }
