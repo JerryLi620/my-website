@@ -60,7 +60,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "JerryLi620",
-  reposLength: 4,
+  reposLength: 0,
   specificRepos: [
     "Wildcat-RMP",
     "TrashTalks",
@@ -97,37 +97,25 @@ const leadership = {
 const skills = {
   show: true,
   heading: "Skills",
-  images: [
-    {
-      img: require("../assets/img/react.svg"),
-    },
-    {
-      img: require("../assets/img/git.svg"),
-    },
-    {
-      img: require("../assets/img/python.svg"),
-    },
-    {
-      img: require("../assets/img/java.svg"),
-    },
-    {
-      img: require("../assets/img/csharp.svg"),
-    },
-    {
-      img: require("../assets/img/r.svg"),
-    },
-    {
-      img: require("../assets/img/tensorflow.svg"),
-    },
-    {
-      img: require("../assets/img/jupyter.svg"),
-    },
-    {
-      img: require("../assets/img/linux.svg"),
-    },
-    {
-      img: require("../assets/img/unity.svg"),
-    },
+  hardSkills: [
+    { name: "Python", value: 90 },
+    { name: "Java", value: 90 },
+    { name: "git", value: 85 },
+    { name: "jupyter", value: 80 },
+    { name: "R", value: 65 },
+    { name: "React", value: 65 },
+    { name: "Tensorflow", value: 55 },
+    { name: "C#", value: 70 },
+  ],
+  softSkills: [
+    { name: "Goal-Oriented", value: 90 },
+    { name: "Collaboration", value: 80 },
+    { name: "Positivity", value: 75 },
+    { name: "Efficiency", value: 85 },
+    { name: "Problem Solving", value: 90 },
+    { name: "Empathy", value: 70 },
+    { name: "Organization", value: 80 },
+    { name: "Creativity", value: 90 },
   ],
 };
 
