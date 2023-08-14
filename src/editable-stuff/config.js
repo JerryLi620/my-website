@@ -63,6 +63,7 @@ const repos = {
   reposLength: 0,
   specificRepos: [
     "Wildcat-RMP",
+    "Lyft-Forage-Project",
     "TrashTalks",
     "Bee-the-Change",
     "Moolah-Money",
@@ -135,12 +136,12 @@ const experiences = {
     {
       role: "Machine Learning Researcher", // Here Add Company Name
       companylogo: require("../assets/img/alpha.png"),
-      date: "May 2021 – August 2021",
+      date: "May 2022 – August 2022, May 2023 – August 2023",
     },
     {
       role: "Engineer intern",
       companylogo: require("../assets/img/tecoford.png"),
-      date: "Aug 2021 – Now",
+      date: "Aug 2022 – Now",
     },
   ],
 };
