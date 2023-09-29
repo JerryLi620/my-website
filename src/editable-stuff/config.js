@@ -136,12 +136,12 @@ const experiences = {
     {
       role: "Machine Learning Researcher", // Here Add Company Name
       companylogo: require("../assets/img/alpha.png"),
-      date: "May 2022 – August 2022, May 2023 – August 2023",
+      date: "May 2022 - Now",
     },
     {
       role: "Engineer intern",
       companylogo: require("../assets/img/tecoford.png"),
-      date: "Aug 2022 – Now",
+      date: "Aug 2022 – May 2023",
     },
   ],
 };
