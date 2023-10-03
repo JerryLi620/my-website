@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/mingyangli.jpg"),
   imageSize: 375,
   message:
-    "Hi, I am Mingyang Li. My preferred name is Jerry. I am a rising junior student at Davidson college double major in Computer Science and Math. In my free time, I like developing personal projects and compete in hackathon. My other hobby includes playing basketball, find good food and playing videogames:)",
+    "Hi, I am Mingyang Li. My preferred name is Jerry. I am a junior student at Davidson college double major in Computer Science and Math. In my free time, I like developing personal projects and compete in hackathon. My other hobby includes playing basketball, find good food and playing videogames:)",
   resume:
     "https://docs.google.com/document/d/1wuIvzthiYfwn4BElb4yNM4Dk1Tr71WrN/edit#heading=h.gjdgxs",
 };
@@ -75,7 +75,7 @@ const leadership = {
   show: true,
   heading: "Research",
   message:
-    "Here are the posters about my researches during my undergraduate years.",
+    "Here are the posters about my researches during my undergraduate years. My potential research interests lie in using deep learning to solve scientific problems, especially in applying generative model on pointcloud related tasks. Supervised by Professor Raghu Ramanujan and Professor Michelle Kuchera, I am currently working on building diffusion model to accomplish unpair translation tasks and applying feature and style encoding in diffusion model based autoencoders.",
   images: [
     {
       img: require("../editable-stuff/unpair.jpg"),
@@ -104,10 +104,10 @@ const skills = {
     { name: "Python", value: 90 },
     { name: "Java", value: 90 },
     { name: "git", value: 85 },
-    { name: "jupyter", value: 80 },
+    { name: "SQL", value: 80 },
     { name: "R", value: 65 },
-    { name: "React", value: 65 },
-    { name: "Tensorflow", value: 55 },
+    { name: "React.js", value: 65 },
+    { name: "Tensorflow&Pytorch", value: 65 },
     { name: "C#", value: 70 },
   ],
   softSkills: [
