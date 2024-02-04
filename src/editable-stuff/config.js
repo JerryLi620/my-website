@@ -67,6 +67,7 @@ const repos = {
     "TrashTalks",
     "Bee-the-Change",
     "Moolah-Money",
+    "CampfireBG",
   ],
 };
 
@@ -75,7 +76,7 @@ const leadership = {
   show: true,
   heading: "Research",
   message:
-    "Here are the posters about my researches during my undergraduate years. My potential research interests lie in using deep learning to solve scientific problems, especially in applying generative model on pointcloud related tasks. Supervised by Professor Raghu Ramanujan and Professor Michelle Kuchera, I am currently working on building diffusion model to accomplish unpair translation tasks and applying feature and style encoding in diffusion model based autoencoders.",
+    "Here are the posters about my researches during my undergraduate years. My potential research interests lie in using deep learning to solve scientific problems, especially in applying generative model on pointcloud related tasks. Supervised by Professor Raghu Ramanujan and Professor Michelle Kuchera, I am currently working on building diffusion model to accomplish unpair translation tasks and applying latent space alignment in diffusion model.",
   images: [
     {
       img: require("../editable-stuff/unpair.jpg"),
@@ -139,6 +140,11 @@ const experiences = {
       role: "Machine Learning Researcher", // Here Add Company Name
       companylogo: require("../assets/img/alpha.png"),
       date: "May 2022 - Now",
+    },
+    {
+      role: "Software Engineer Intern", // Here Add Company Name
+      companylogo: require("../assets/img/aitou.png"),
+      date: "Jan 2024 - Now",
     },
     {
       role: "Engineer intern",
