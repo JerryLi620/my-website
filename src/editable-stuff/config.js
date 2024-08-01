@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/mingyangli.jpg"),
   imageSize: 375,
   message:
-    "Hi, I am Mingyang Li. My preferred name is Jerry. I am a junior student at Davidson college double major in Computer Science and Math. In my free time, I like developing personal projects and compete in hackathon. My other hobby includes playing basketball, find good food and playing videogames:)",
+    "Hi, I am Mingyang Li. My preferred name is Jerry. I am a senior student at Davidson college double major in Computer Science and Math. In my free time, I like developing personal projects and compete in hackathon. My other hobby includes playing basketball, find good food and playing videogames:)",
   resume:
     "https://docs.google.com/document/d/1wuIvzthiYfwn4BElb4yNM4Dk1Tr71WrN/edit#heading=h.gjdgxs",
 };
@@ -62,12 +62,12 @@ const repos = {
   gitHubUsername: "JerryLi620",
   reposLength: 0,
   specificRepos: [
+    "Wildcart",
+    "CampfireBG",
     "Wildcat-RMP",
-    "Lyft-Forage-Project",
     "TrashTalks",
     "Bee-the-Change",
     "Moolah-Money",
-    "CampfireBG",
   ],
 };
 
@@ -104,11 +104,11 @@ const skills = {
   hardSkills: [
     { name: "Python", value: 90 },
     { name: "Java", value: 90 },
-    { name: "git", value: 85 },
-    { name: "SQL", value: 80 },
+    { name: "SQL", value: 90 },
+    { name: "Typescript", value: 80 },
+    { name: "Tensorflow&Pytorch", value: 70 },
+    { name: "Next.js", value: 70 },
     { name: "R", value: 65 },
-    { name: "React.js", value: 65 },
-    { name: "Tensorflow&Pytorch", value: 65 },
     { name: "C#", value: 70 },
   ],
   softSkills: [
@@ -139,17 +139,17 @@ const experiences = {
     {
       role: "Machine Learning Researcher", // Here Add Company Name
       companylogo: require("../assets/img/alpha.png"),
-      date: "May 2022 - Now",
+      date: "May 2022 - Aug 2022, May 2023 - Aug 2024 ",
+    },
+    {
+      role: "Data Science Intern", // Here Add Company Name
+      companylogo: require("../assets/img/sezzle.png"),
+      date: "May 2024 – Now",
     },
     {
       role: "Software Engineer Intern", // Here Add Company Name
       companylogo: require("../assets/img/aitou.png"),
-      date: "Jan 2024 - Now",
-    },
-    {
-      role: "Engineer intern",
-      companylogo: require("../assets/img/tecoford.png"),
-      date: "Aug 2022 – May 2023",
+      date: "Jan 2024 – April 2024",
     },
   ],
 };
