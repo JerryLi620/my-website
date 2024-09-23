@@ -46,9 +46,9 @@ const about = {
   imageLink: require("../editable-stuff/mingyangli.jpg"),
   imageSize: 375,
   message:
-    "Hi, I am Mingyang Li. My preferred name is Jerry. I am a senior student at Davidson college double major in Computer Science and Math. In my free time, I like developing personal projects and compete in hackathon. My other hobby includes playing basketball, find good food and playing videogames:)",
+    "Hi, I am a senior student at Davidson college double major in Computer Science and Math. At Davidson, I have worked on applying generative models on nulear physics data at Davidson and building ML models for payment recollection at Sezzle. My hobby includes playing basketball, explore good food and playing videogames:)",
   resume:
-    "https://docs.google.com/document/d/1wuIvzthiYfwn4BElb4yNM4Dk1Tr71WrN/edit#heading=h.gjdgxs",
+    "https://docs.google.com/document/d/1yaeIoVidLY5qvaxGgGmwxwWt-L-ctnXn/edit#heading=h.30j0zll",
 };
 
 // PROJECTS SECTION
