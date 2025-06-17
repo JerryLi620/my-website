@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Mingyang",
   middleName: "",
   lastName: "Li",
-  message: "Math&CS Student at Davidson College",
+  message: "Master of Data Science Student at Stanford University ICME",
   icons: [
     {
       image: "fa-github",
@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/mingyangli.jpg"),
   imageSize: 375,
   message:
-    "Hi, I am a senior student at Davidson college double major in Computer Science and Math. At Davidson, I have worked on applying generative models on nulear physics data at Davidson and building ML models for payment recollection at Sezzle. My hobby includes playing basketball, explore good food and playing videogames:)",
+    "Hi I am a first-year Master of Data Science student at Stanford University ICME. I graduated from Davidson College in 2025 major in math and computer science. I am passionate about applying machine learning to solve real-world problems, especially in the field of computer vision and natural language processing. I have a strong background in software engineering and data science, with experience in developing web applications and machine learning models. I am currently looking for internship opportunities in software engineering or machine learning.",
   resume:
     "https://docs.google.com/document/d/1yaeIoVidLY5qvaxGgGmwxwWt-L-ctnXn/edit#heading=h.30j0zll",
 };
@@ -76,7 +76,7 @@ const leadership = {
   show: true,
   heading: "Research",
   message:
-    "Here are the posters about my researches during my undergraduate years. My potential research interests lie in using deep learning to solve scientific problems, especially in applying generative model on pointcloud related tasks. Supervised by Professor Raghu Ramanujan and Professor Michelle Kuchera, I am currently working on building diffusion model to accomplish unpair translation tasks and applying latent space alignment in diffusion model.",
+    'My research interests include deep learning, computer vision, and physics. I have worked on several projects that apply deep learning to nuclear physics. I published a first-author paper at the <a href="https://arxiv.org/pdf/2501.18674" target="_blank" rel="noopener noreferrer">NeurIPS 2024 ML & Physical Science Workshop</a>. Here are some of my recent research projects:',
   images: [
     {
       img: require("../editable-stuff/unpair.jpg"),
@@ -93,7 +93,7 @@ const leadership = {
   ],
   imageSize: {
     width: "615",
-    height: "450",
+    height: "480",
   },
 };
 
@@ -102,24 +102,15 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "Java", value: 90 },
-    { name: "SQL", value: 90 },
-    { name: "Typescript", value: 80 },
-    { name: "Tensorflow&Pytorch", value: 70 },
-    { name: "Next.js", value: 70 },
-    { name: "R", value: 65 },
-    { name: "C#", value: 70 },
-  ],
-  softSkills: [
-    { name: "Goal-Oriented", value: 90 },
-    { name: "Collaboration", value: 80 },
-    { name: "Positivity", value: 75 },
-    { name: "Efficiency", value: 85 },
-    { name: "Problem Solving", value: 90 },
-    { name: "Empathy", value: 70 },
-    { name: "Organization", value: 80 },
-    { name: "Creativity", value: 90 },
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
   ],
 };
 
@@ -139,12 +130,12 @@ const experiences = {
     {
       role: "Machine Learning Researcher", // Here Add Company Name
       companylogo: require("../assets/img/alpha.png"),
-      date: "May 2022 - Aug 2022, May 2023 - Aug 2024 ",
+      date: "May 2022 - Aug 2022, May 2023 - Dec 2024 ",
     },
     {
       role: "Data Science Intern", // Here Add Company Name
       companylogo: require("../assets/img/sezzle.png"),
-      date: "May 2024 – Now",
+      date: "May 2024 – Dec 2024",
     },
     {
       role: "Software Engineer Intern", // Here Add Company Name
