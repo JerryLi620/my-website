@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/mingyangli.jpg"),
   imageSize: 375,
   message:
-    "Hi I am a first-year Master of Data Science student at Stanford University ICME. I graduated from Davidson College in 2025 major in math and computer science. I am passionate about applying machine learning to solve real-world problems, especially in the field of computer vision and natural language processing. I have a strong background in software engineering and data science, with experience in developing web applications and machine learning models. I am currently looking for internship opportunities in software engineering or machine learning.",
+    "Hi I am a first-year Master of Data Science student at Stanford University ICME. I graduated from Davidson College in 2025 majored in math and computer science. I am passionate about applying machine learning to solve real-world problems, especially in the field of computer vision and natural language processing. In my spare time, I enjoy golfing, playing basketball, bouldering, and collecting sports cards. I am currently looking for internship opportunities in software engineering or machine learning.",
   resume:
     "https://docs.google.com/document/d/1yaeIoVidLY5qvaxGgGmwxwWt-L-ctnXn/edit#heading=h.30j0zll",
 };
@@ -80,14 +80,12 @@ const leadership = {
   images: [
     {
       img: require("../editable-stuff/unpair.jpg"),
-      label:
-        "Unpaired Pointcloud Translation using Diffusion Probablistic Model",
+      label: "",
       paragraph: "",
     },
     {
       img: require("../editable-stuff/pointcloud.jpg"),
-      label:
-        "Point Cloud Based Machine Learning for Analysis of Nuclear Reactions",
+      label: "",
       paragraph: "",
     },
   ],
@@ -100,17 +98,20 @@ const leadership = {
 // SKILLS SECTION
 const skills = {
   show: true,
-  heading: "Skills",
+  heading: "Technical Skills",
   hardSkills: [
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg",
-    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-    "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg",
     "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg",
+    "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
   ],
 };
 
