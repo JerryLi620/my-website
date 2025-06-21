@@ -48,7 +48,7 @@ const about = {
   message:
     "Hi I am a first-year Master of Data Science student at Stanford University ICME. I graduated from Davidson College in 2025 majored in math and computer science. I am passionate about applying machine learning to solve real-world problems, especially in the field of computer vision and natural language processing. In my spare time, I enjoy golfing, playing basketball, bouldering, and collecting sports cards. I am currently looking for internship opportunities in software engineering or machine learning.",
   resume:
-    "https://docs.google.com/document/d/1yaeIoVidLY5qvaxGgGmwxwWt-L-ctnXn/edit#heading=h.30j0zll",
+    "https://docs.google.com/document/d/1HU_c5NV3cTG354aIJPZ8Bn62pDaDwY_k/edit#heading=h.gjdgxs",
 };
 
 // PROJECTS SECTION
